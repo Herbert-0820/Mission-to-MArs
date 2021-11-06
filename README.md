@@ -6,7 +6,7 @@
  
 ## Results with detail analysis:
 
-1. The `scraping.py` file contains code that retrieves the full-resolution image URL and title for each hemisphere image.**
+1. The `scraping.py` file contains code that retrieves the full-resolution image URL and title for each hemisphere image.
 
 2. The webpage is mobile-responsive.
 
